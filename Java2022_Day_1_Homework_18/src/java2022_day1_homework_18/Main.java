@@ -6,7 +6,7 @@ public class Main {
 		
 		// Arkadas Sayi
 		// Girilen Iki Farkli Sayidan Birinin 
-		// Kendisi Haric Kendisine Kadar Olan Sayılarin 
+		// Kendisi Haric Kendisine Kadar Olan SayÃ½larin 
 		// Tam Bolenlerinin Toplami Diger Girilen Sayiyi Vermesidir
 		
 		int number1 = 220;
@@ -28,9 +28,9 @@ public class Main {
 		}
 		
 		if (number1 == total2 && number2 == total1) {
-			System.out.println("Girilen Sayılar Arkadaş Sayıdır");
+			System.out.println("Girilen Sayilar Arkadas Sayidir");
 		}else {
-			System.out.println("Girilen Sayılar Arkadaş Sayı Değildir");
+			System.out.println("Girilen Sayilar Arkadas Sayi Degildir");
 		}
 	}
 }
