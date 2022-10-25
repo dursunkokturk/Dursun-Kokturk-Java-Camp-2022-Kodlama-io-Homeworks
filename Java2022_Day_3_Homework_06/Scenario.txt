@@ -1,0 +1,26 @@
+Need To: As ABC Bank, we should be able to monitor our customers.
+
+Acceptance Criteria:
+
+
+Gereksinim: ABC Bankasi Olarak, musterilerimizin takibini yapabilmeliyiz.
+
+Kabul Kriterleri:
+
+- İki tip musteri mevcut. Gercek Musteriler, Tuzel Musteriler.
+
+- Gercek Musteri: MusteriNo,Ad,Soyad,TcKimlikNo alanlarina sahiptir.
+
+- Tuzel Musteri: MusteriNo,Unvan,VergiNo alanlarina sahiptir.
+
+- Musterilerin Adreslerini Takip Edebilmeliyiz.
+
+- Tuzel Musterilerin her 6 aylik donemde bilanco bilgilerini kaydetmeliyiz. 
+Ornegin 3 yillik bir tuzel musterinin her 6 aya denk gelen 6 adet bilanco kaydi olmalidir. 
+Bilanco bilgisi olarak bilanco tutari ve bilanco tarihi bilgisini tutmak yeterlidir.
+
+- Gercek musterilerin bazilari ticari faliyet gerceklestirmektedir. 
+Bu tip musterilerimiz icin de bilanco takibi yapabilmeliyiz.
+
+- Bir kisinin veya kurumun bankamizin musterisi olabilmesi icin cesitli kanallar mevcuttur. (Internet, Sube,vb.) 
+Musterinin hangi kanaldan bankamiza ilk kez katildigi bilgisini de tutmak istiyoruz.
